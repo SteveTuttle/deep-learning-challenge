@@ -1,4 +1,4 @@
-# deep-leaning-neural-network-optimization
+# deep-learning-neural-network-optimization
 UNC_data_bootcamp_module_21
 
 ## Challenge Description
